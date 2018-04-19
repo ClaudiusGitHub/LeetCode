@@ -17,10 +17,13 @@ public class Solution {
 
     public int maxProduce(int[] nums) {
         int length = nums.length;
+        //记录最大值
         int[] high = new int[length];
         high[0] = nums[0];
+        //记录最小值
         int[] low = new int[length];
         low[0] = nums[0];
+        //用来记录最小值
         int max = nums[0];
         for (int i = 1; i < length; i++) {
             int highTemp = high[i - 1] * nums[i];

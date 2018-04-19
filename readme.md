@@ -24,6 +24,8 @@
 |96|[Unique Binary Search Trees](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question96/Solution.java)|Medium|java|Tree|
 |120|[Triangle](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question120/Solution.java)|Medium|java|DP|
 |152|[Maximum Product Subarray](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question152/Solution.java)|Medium|java|DP|
+|152|[House Robber](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question198/Solution.java)|easy|java|DP|
+|213|[House RobberII](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question213Solution.java)|Medium|java|DP|
 |258|[Add Digits](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question258/PerfectSolution.java)|Hard|java|String|
 |530|[Minimum Absolute Difference in BST](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question530/CompareInBST.java)|Easy|java|Tree|
 |664|[Strange Printer](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question664/Solution.java)|Hard|java|DP|
