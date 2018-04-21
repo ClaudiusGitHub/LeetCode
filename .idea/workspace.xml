@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7a56d0c-0400-4dd5-88fb-207500735644" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/claudius/leetcode/question279/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="c7a56d0c-0400-4dd5-88fb-207500735644" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="277">
-                <caret line="30" column="109" selection-start-line="30" selection-start-column="109" selection-end-line="30" selection-end-column="109" />
+              <first_editor relative-caret-position="104">
+                <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -252,12 +248,12 @@
       <workItem from="1524135174943" duration="1308000" />
       <workItem from="1524189884817" duration="3925000" />
       <workItem from="1524204024961" duration="1689000" />
-      <workItem from="1524270645847" duration="4269000" />
+      <workItem from="1524270645847" duration="4471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34451000" />
+    <option name="totallyTimeSpent" value="34653000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -282,11 +278,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.29411766" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.3783784" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25755167" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.3783784" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26709062" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49761903" visible="true" weight="0.25607902" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49761903" visible="true" weight="0.25607902" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" sideWeight="0.50238097" side_tool="true" weight="0.25607902" />
@@ -524,8 +520,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="277">
-            <caret line="30" column="109" selection-start-line="30" selection-start-column="109" selection-end-line="30" selection-end-column="109" />
+          <first_editor relative-caret-position="104">
+            <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>

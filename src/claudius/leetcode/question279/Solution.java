@@ -22,6 +22,8 @@ public class Solution {
         for (int i = 2; i <= n; i++) {
             int minNum = Integer.MAX_VALUE;
             int temp = (int) Math.sqrt(i);
+
+
             for (int j = temp; j >= 1; j--) {
                 int step = j * j;
                 if (nums[i - step] == 0) {
@@ -33,9 +35,9 @@ public class Solution {
             }
             nums[i] = minNum;
         }
-        for (int i = 0; i <= n; i++) {
-            System.out.print(nums[i] + " ");
-        }
+//        for (int i = 0; i <= n; i++) {
+//            System.out.print(nums[i] + " ");
+//        }
         return nums[n];
     }
 }
