@@ -31,6 +31,7 @@
 |279|[Perfect Squares](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question279/Solution.java)|Medium|java|DP|
 |300|[Longest Increasing Subsequence](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question300/Solution.java)|Medium|java|DP|
 |303|[Range Sum Query](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question303/NumArray.java)|easy|java|DP|
+|304|[Range Sum Query 2D](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question304/NumMatrix.java)|Medium|java|DP|
 |530|[Minimum Absolute Difference in BST](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question530/CompareInBST.java)|Easy|java|Tree|
 |664|[Strange Printer](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question664/Solution.java)|Hard|java|DP|
 |650|[2 Keys Keyboard](https://github.com/ClaudiusGitHub/LeetCode/blob/master/src/claudius/leetcode/question650/Solution.java)|Medium|java|DP|

@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7a56d0c-0400-4dd5-88fb-207500735644" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/claudius/leetcode/question303/NumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Leet/claudius/leetcode/question304/NumMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/claudius/leetcode/question304/NumMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leet/claudius/leetcode/question303/NumArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leet/claudius/leetcode/question303/NumArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,11 +18,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="NumArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/claudius/leetcode/question303/NumArray.java">
+      <file leaf-file-name="NumMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/claudius/leetcode/question304/NumMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="200">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <marker date="1524499181822" expanded="true" signature="1402:1607" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -29,8 +34,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="226">
-                <caret line="32" column="131" selection-start-line="32" selection-start-column="131" selection-end-line="32" selection-end-column="131" />
+              <first_editor relative-caret-position="122">
+                <caret line="33" column="114" selection-start-line="33" selection-start-column="114" selection-end-line="33" selection-end-column="114" />
               </first_editor>
               <second_editor />
             </state>
@@ -65,6 +70,8 @@
         <option value="$PROJECT_DIR$/src/claudius/leetcode/question300/Solution.java" />
         <option value="$PROJECT_DIR$/src/claudius/leetcode/question303/Solution.java" />
         <option value="$PROJECT_DIR$/src/claudius/leetcode/question303/NumArray.java" />
+        <option value="$PROJECT_DIR$/src/claudius/leetcode/question304/Solution.java" />
+        <option value="$PROJECT_DIR$/src/claudius/leetcode/question304/NumMatrix.java" />
         <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
@@ -100,9 +107,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,12 +130,15 @@
               <item name="Leet" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="question303" type="462c0819:PsiDirectoryNode" />
+              <item name="question304" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumArray">
+  <component name="RunManager" selected="Application.NumMatrix">
     <configuration name="NumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="claudius.leetcode.question303.NumArray" />
       <module name="Leet" />
@@ -163,12 +170,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="claudius.leetcode.question213.Solution" />
+    <configuration name="NumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="claudius.leetcode.question304.NumMatrix" />
       <module name="Leet" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="claudius.leetcode.question213.*" />
+          <option name="PATTERN" value="claudius.leetcode.question304.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,19 +226,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
       <item itemvalue="Application.NumArray" />
+      <item itemvalue="Application.NumMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumMatrix" />
         <item itemvalue="Application.NumArray" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -257,12 +264,13 @@
       <workItem from="1524204024961" duration="1689000" />
       <workItem from="1524270645847" duration="4635000" />
       <workItem from="1524404215277" duration="4013000" />
-      <workItem from="1524444345988" duration="4897000" />
+      <workItem from="1524444345988" duration="4961000" />
+      <workItem from="1524465416402" duration="3140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43727000" />
+    <option name="totallyTimeSpent" value="46931000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -287,11 +295,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="6" weight="0.29411766" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.37678856" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26709062" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.37678856" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26550078" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49761903" visible="true" weight="0.26519758" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49761903" visible="true" weight="0.26975685" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50238097" side_tool="true" weight="0.25607902" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -345,6 +353,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/claudius/leetcode/question303/NumArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="800">
+            <caret line="32" column="131" selection-start-line="32" selection-start-column="131" selection-end-line="32" selection-end-column="131" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/claudius/leetcode/question300/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -569,16 +594,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/claudius/leetcode/question303/NumArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="350">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/claudius/leetcode/question304/NumMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <marker date="1524499181822" expanded="true" signature="1402:1607" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="226">
-            <caret line="32" column="131" selection-start-line="32" selection-start-column="131" selection-end-line="32" selection-end-column="131" />
+          <first_editor relative-caret-position="122">
+            <caret line="33" column="114" selection-start-line="33" selection-start-column="114" selection-end-line="33" selection-end-column="114" />
           </first_editor>
           <second_editor />
         </state>
